@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="your-banner.png" alt="Banner" />
+  <img src="github-Banner.jpg" alt="Banner" />
 </p>
 
 <!-- Name and Designation -->
